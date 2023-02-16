@@ -1,0 +1,2 @@
+# Çözüm Teknik
+ main
